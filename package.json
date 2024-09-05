@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "bchaddrjs-slp": "^0.2.12",
-    "bitcore-lib-cash": "^8.25.7",
+    "bitcore-lib-cash": "^10.0.28",
     "dotenv": "^8.2.0",
     "grpc-bchrpc-node": "^0.15.0",
     "slp-mdm": "^0.0.7"
@@ -19,9 +19,9 @@
     "@types/node": "^12.12.17",
     "@types/sinon": "^9.0.8",
     "@typescript-eslint/eslint-plugin": "^2.10.0",
-    "@typescript-eslint/parser": "^2.10.0",
-    "eslint": "^6.7.2",
-    "ts-node-dev": "^1.1.6",
+    "@typescript-eslint/parser": "^4.0.0",
+    "eslint": "^8.44.0",
+    "ts-node-dev": "^2.0.0",
     "typescript": "^3.9.7"
   }
 }
