@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "bchaddrjs-slp": "^0.2.12",
-    "bitcore-lib-cash": "^8.25.7",
+    "bitcore-lib-cash": "^10.0.28",
     "dotenv": "^8.2.0",
     "grpc-bchrpc-node": "^0.15.0",
     "slp-mdm": "^0.0.7"
